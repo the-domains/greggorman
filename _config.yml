@@ -1,4 +1,4 @@
-name: GregGorman
+name: Greg Gorman
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.17053
@@ -22,7 +22,7 @@ color:
     - '#fdb482'
     - '#0c0000'
     - '#926e31'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.012127090711146593
   saturation: 1
   rhythmicContrast: 0
