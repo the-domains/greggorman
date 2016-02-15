@@ -1,6 +1,6 @@
 name: GregGorman
 favicon: null
-layout_spectrum: 0.31910718930885196
+layout_spectrum: 1
 typography_spectrum: 0.09226795611903071
 title: Photography
 cta:
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.8579944001976401
+  brandStrength: 0
   lightness: 0.012127090711146593
-  saturation: 0.6253711802419275
-  rhythmicContrast: 0.3201455988455564
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
